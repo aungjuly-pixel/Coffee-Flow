@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-11-06T02:56:45.218336",
-  "arabica_spot_cents_lb": 277.4,
-  "arabica_change_pct": -0.84,
-  "usd_brl": 5.4587,
+  "timestamp": "2026-11-07T02:26:49.491350",
+  "arabica_spot_cents_lb": 280.15,
+  "arabica_change_pct": 1.08,
+  "usd_brl": 5.5035,
   "market_status": "OPEN",
   "benchmark": "ICE Arabica (KC)"
 }
