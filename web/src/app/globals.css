@@ -1,0 +1,31 @@
+﻿@import "tailwindcss";
+
+@theme {
+  /* 1. Primary UI & Brand */
+  --font-sans: var(--font-inter), -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  
+  /* 2. Editorial Body Copy */
+  --font-body: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  
+  /* 3. Institutional Terminal Monospace */
+  --font-mono: var(--font-mono), "JetBrains Mono", monospace;
+}
+
+:root {
+  --background: #000000;
+  --foreground: #d9d9d9;
+}
+
+body {
+  background-color: #000000;
+  color: #d9d9d9;
+  font-family: var(--font-body);
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  overflow-x: hidden;
+}
+
+/* Enforce fixed tabular alignment on all numeric data */
+.font-mono, [class*="font-mono"] {
+  font-family: var(--font-mono) !important;
+  font-variant-numeric: tabular-nums;
+}
