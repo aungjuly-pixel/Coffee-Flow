@@ -1,7 +1,47 @@
 {
-  "timestamp": "2026-11-15T01:09:08.187918+00:00",
+  "timestamp": "2026-11-17T04:00:53.590762+00:00",
   "count": 5,
   "articles": [
+    {
+      "title": "Forced Labor Import Bans Are Reaching the Coffee Sector. Are Companies Ready?",
+      "summary": "For years, forced labor import bans have been viewed by many coffee companies as a remote legal concern. That perspective is changing, and quickly....",
+      "url": "https://dailycoffeenews.com/2026/11/16/forced-labor-import-bans-are-reaching-the-coffee-sector-are-companies-ready/",
+      "image": "https://dailycoffeenews.com/wp-content/uploads/2026/11/picked-coffee-drying-fermentation-620x414.jpg",
+      "source": "Daily Coffee News",
+      "region": "Global Trade",
+      "category": "Market Wire",
+      "timeAgo": "14h ago"
+    },
+    {
+      "title": "Vietnam maps sustainable coffee growth as exports top US$8.6 billion",
+      "summary": "Image: Vietnam Coffee and Cocoa Association. Major coffee-producing countries are accelerating efforts to improve sustainability, strengthen...",
+      "url": "https://www.gcrmag.com/vietnam-maps-sustainable-coffee-growth-as-exports-top-us8-6-billion/",
+      "image": "https://www.gcrmag.com/wp-content/uploads/2026/11/VICOFA.jpg",
+      "source": "Global Coffee Report",
+      "region": "Commercial & Futures",
+      "category": "Industry",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "Crema Coffee Roasters Rises Again in Nashville with New Roastery",
+      "summary": "Continually rising like its velvety, golden-brown namesake, Tennessee-based Crema Coffee Roasters recently moved into a 2,400-square-foot standalone...",
+      "url": "https://dailycoffeenews.com/2026/11/16/crema-coffee-roasters-rises-again-in-nashville-with-new-roastery/",
+      "image": "https://dailycoffeenews.com/wp-content/uploads/2026/11/Crema-Coffee-Roastery-East-Nashville-1-620x414.jpg",
+      "source": "Daily Coffee News",
+      "region": "Global Trade",
+      "category": "Market Wire",
+      "timeAgo": "14h ago"
+    },
+    {
+      "title": "ADM taking on the world with flexible coffee packaging solutions",
+      "summary": "George Fakhry (left) is looking to scale ADM Packaging globally. Image: ADM Packaging. After building a strong presence in the world-leading Australian...",
+      "url": "https://www.gcrmag.com/adm-taking-on-the-world-with-flexible-coffee-packaging-solutions/",
+      "image": "https://www.gcrmag.com/wp-content/uploads/2026/11/ADM1.jpg",
+      "source": "Global Coffee Report",
+      "region": "Commercial & Futures",
+      "category": "Industry",
+      "timeAgo": "5h ago"
+    },
     {
       "title": "Ohio’s Branch Street Cafe Becomes Denizen as Managers Take Ownership",
       "summary": "After more than a decade of serving guests at their independent coffee shop in Boardman, Ohio, the owners of Branch Street Coffee Roasters have handed...",
@@ -10,47 +50,7 @@
       "source": "Daily Coffee News",
       "region": "Global Trade",
       "category": "Market Wire",
-      "timeAgo": "1d ago"
-    },
-    {
-      "title": "GCP reports record participation as sustainable coffee purchase volumes decline",
-      "summary": "Image: Global Coffee Platform. The Global Coffee Platform (GCP) has recorded its highest level of participation in collective sustainability reporting,...",
-      "url": "https://www.gcrmag.com/gcp-reports-record-participation-as-sustainable-coffee-purchase-volumes-decline/",
-      "image": "https://www.gcrmag.com/wp-content/uploads/2026/11/DSC4520-1-scaled-1.jpg",
-      "source": "Global Coffee Report",
-      "region": "Commercial & Futures",
-      "category": "Industry",
-      "timeAgo": "1d ago"
-    },
-    {
-      "title": "Weekly Coffee News: New Coffee Education Certificate + ICO Price Edges Down",
-      "summary": "Welcome to DCN’s Weekly Coffee News! Subscribe here for all the latest coffee industry news. Also, check out the latest career opportunities at...",
-      "url": "https://dailycoffeenews.com/2026/11/13/weekly-coffee-news-new-coffee-education-certificate-ico-price-edges-down/",
-      "image": "https://dailycoffeenews.com/wp-content/uploads/2026/11/CYA-coffee-software-620x349.jpg",
-      "source": "Daily Coffee News",
-      "region": "Global Trade",
-      "category": "Market Wire",
-      "timeAgo": "1d ago"
-    },
-    {
-      "title": "Costa extends partnership with leading UK retailer",
-      "summary": "Costa Coffee and NEXT have extended their partnership for a further ten years. Image: Costa Coffee. Costa Coffee’s partnership with retail brand NEXT...",
-      "url": "https://www.gcrmag.com/costa-extends-partnership-with-leading-uk-retailer/",
-      "image": "https://www.gcrmag.com/wp-content/uploads/2026/11/Costa_Coffee_Next_2026.jpg",
-      "source": "Global Coffee Report",
-      "region": "Commercial & Futures",
-      "category": "Industry",
-      "timeAgo": "1d ago"
-    },
-    {
-      "title": "Design Details: The Recessed Sculptural Bar of Palace Coffee in Melbourne",
-      "summary": "Welcome to Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior...",
-      "url": "https://dailycoffeenews.com/2026/11/12/design-details-the-recessed-sculptural-bar-of-palace-coffee-in-melbourne/",
-      "image": "https://dailycoffeenews.com/wp-content/uploads/2026/09/Palace-Coffee-Melbourne-01-620x465.jpg",
-      "source": "Daily Coffee News",
-      "region": "Global Trade",
-      "category": "Market Wire",
-      "timeAgo": "2d ago"
+      "timeAgo": "3d ago"
     }
   ]
 }
