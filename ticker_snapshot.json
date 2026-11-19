@@ -1,28 +1,28 @@
 {
-  "timestamp": "2026-11-18T02:58:40.257837+00:00",
-  "arabica_spot_cents_lb": 279.95,
-  "arabica_change_pct": -0.27,
+  "timestamp": "2026-11-19T02:41:24.441444+00:00",
+  "arabica_spot_cents_lb": 276.05,
+  "arabica_change_pct": -3.68,
   "arabica_up": false,
-  "sma20": 286.83,
-  "sma50": 291.43,
-  "robusta_price_mt": 3217,
-  "robusta_change_pct": -0.27,
+  "sma20": 285.16,
+  "sma50": 290.7,
+  "robusta_price_mt": 3019,
+  "robusta_change_pct": -1.63,
   "robusta_up": false,
-  "ice_stocks": "195k",
+  "ice_stocks": "201k",
   "ice_stocks_up": true,
   "ice_stocks_detail": {
-    "short_label": "195k",
+    "short_label": "201k",
     "is_up": true,
     "status_badge": "ACCUMULATION",
-    "report_date": "2026-11-17",
-    "total_bags": 194523,
+    "report_date": "2026-11-18",
+    "total_bags": 201273,
     "top_ports": [
       {
         "code": "ANT",
         "label": "Antwerp Port (EU Warehouse)",
-        "bags": 146720,
-        "delta": "+6.3%",
-        "share_pct": 75
+        "bags": 153470,
+        "delta": "+4.6%",
+        "share_pct": 76
       },
       {
         "code": "HOU",
@@ -49,7 +49,7 @@
         "code": "NOLA",
         "label": "New Orleans (US Gulf)",
         "bags": 2517,
-        "delta": "-17.9%",
+        "delta": "Unchanged",
         "share_pct": 3
       },
       {
@@ -76,52 +76,46 @@
     ]
   },
   "usd_brl": 5.78,
-  "usd_brl_change_pct": -0.08,
+  "usd_brl_change_pct": -0.1,
   "usd_brl_up": false,
   "market_status": "ACTIVE",
   "benchmark": "ICE KC=F / RC",
   "chart_history": [
     {
-      "time": "2025-11-17",
-      "close": 402.55,
-      "sma20": 403.77,
-      "sma50": 391.36
-    },
-    {
       "time": "2025-11-18",
       "close": 415.35,
       "sma20": 403.86,
-      "sma50": 391.9
+      "sma50": 391.97
     },
     {
       "time": "2025-11-19",
       "close": 404.5,
       "sma20": 403.05,
-      "sma50": 392.17
+      "sma50": 392.25
     },
     {
       "time": "2025-11-20",
       "close": 406.5,
       "sma20": 402.86,
-      "sma50": 392.48
+      "sma50": 392.56
     },
     {
       "time": "2025-11-21",
       "close": 400.0,
       "sma20": 402.71,
-      "sma50": 392.63
+      "sma50": 392.72
     },
     {
       "time": "2025-11-24",
       "close": 407.45,
       "sma20": 403.58,
-      "sma50": 392.94
+      "sma50": 393.03
     },
     {
       "time": "2025-11-25",
       "close": 414.2,
       "sma20": 404.9,
-      "sma50": 393.36
+      "sma50": 393.46
     },
     {
       "time": "2025-11-26",
@@ -1589,9 +1583,15 @@
     },
     {
       "time": "2026-11-17",
-      "close": 279.95,
-      "sma20": 286.83,
-      "sma50": 291.43
+      "close": 286.6,
+      "sma20": 287.16,
+      "sma50": 291.57
+    },
+    {
+      "time": "2026-11-18",
+      "close": 276.05,
+      "sma20": 285.16,
+      "sma50": 290.7
     }
   ],
   "cot_history": [
