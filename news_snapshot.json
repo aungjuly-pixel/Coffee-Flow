@@ -1,16 +1,36 @@
 {
-  "timestamp": "2026-11-19T02:41:25.005574+00:00",
+  "timestamp": "2026-11-20T02:26:44.876491+00:00",
   "count": 5,
   "articles": [
     {
-      "title": "FDA Revokes Some Methylene Chloride Use, But Decaf Decision Still Pending",
-      "summary": "The U.S. Food and Drug Administration (FDA) is revoking several authorizations for methylene chloride in food-related applications, citing evidence...",
-      "url": "https://dailycoffeenews.com/2026/11/18/fda-revokes-some-methylene-chloride-use-but-decaf-decision-still-pending/",
-      "image": "https://dailycoffeenews.com/wp-content/uploads/2026/11/decaf-coffee-620x414.jpg",
+      "title": "Brazil’s Record Coffee Harvest Comes with Quality and Stock Concerns",
+      "summary": "Brazil’s completed 2026/27 coffee harvest is now estimated at a record-high 72.5 million 60-kilogram bags, up 15.1% from the previous market year,...",
+      "url": "https://dailycoffeenews.com/2026/11/19/brazils-record-coffee-harvest-comes-with-quality-and-stock-concerns/",
+      "image": "https://dailycoffeenews.com/wp-content/uploads/2026/11/Brazil-Coffee-Market-report-620x400.png",
       "source": "Daily Coffee News",
       "region": "Global Trade",
       "category": "Market Wire",
       "timeAgo": "11h ago"
+    },
+    {
+      "title": "Saudi Reef completes US$4 million Arabic coffee projects",
+      "summary": "Image: Milan/stock.adobe.com The Saudi Arabian Sustainable Agricultural Rural Development Programme (Saudi Reef) has completed two Arabic coffee sector...",
+      "url": "https://www.gcrmag.com/saudi-reef-completes-us4-million-arabic-coffee-projects/",
+      "image": "https://www.gcrmag.com/wp-content/uploads/2026/11/AdobeStock_670819817.jpeg",
+      "source": "Global Coffee Report",
+      "region": "Commercial & Futures",
+      "category": "Industry",
+      "timeAgo": "4h ago"
+    },
+    {
+      "title": "Three Questions with “The Little Bean That Grew to Brew” Author and Artist Wendra Lynne",
+      "summary": "Author and illustrator Wendra Lynne has released her second picture book, “The Little Bean That Grew to Brew,” following a successful Kickstarter...",
+      "url": "https://dailycoffeenews.com/2026/11/19/three-questions-with-the-little-bean-that-grew-to-brew-author-and-artist-wendra-lynne/",
+      "image": "https://dailycoffeenews.com/wp-content/uploads/2026/11/The-Little-Bean-That-Grew-to-Brew-Wendra-1-620x438.jpeg",
+      "source": "Daily Coffee News",
+      "region": "Global Trade",
+      "category": "Market Wire",
+      "timeAgo": "12h ago"
     },
     {
       "title": "The business case for diversification in Uganda’s coffee sector",
@@ -20,37 +40,17 @@
       "source": "Global Coffee Report",
       "region": "Commercial & Futures",
       "category": "Industry",
-      "timeAgo": "5h ago"
+      "timeAgo": "1d ago"
     },
     {
-      "title": "Fair Trade USA Raising Minimum Coffee Prices to New Fairtrade Levels",
-      "summary": "Fair Trade USA is raising its minimum price for washed arabica coffee from $1.40 to $2 per pound, marking a significant shift three years after the...",
-      "url": "https://dailycoffeenews.com/2026/11/18/fair-trade-usa-raising-minimum-coffee-prices-to-new-fairtrade-levels/",
-      "image": "https://dailycoffeenews.com/wp-content/uploads/2026/11/green-coffee-620x446.jpg",
+      "title": "FDA Revokes Some Methylene Chloride Use, But Decaf Decision Still Pending",
+      "summary": "The U.S. Food and Drug Administration (FDA) is revoking several authorizations for methylene chloride in food-related applications, citing evidence...",
+      "url": "https://dailycoffeenews.com/2026/11/18/fda-revokes-some-methylene-chloride-use-but-decaf-decision-still-pending/",
+      "image": "https://dailycoffeenews.com/wp-content/uploads/2026/11/decaf-coffee-620x414.jpg",
       "source": "Daily Coffee News",
       "region": "Global Trade",
       "category": "Market Wire",
-      "timeAgo": "11h ago"
-    },
-    {
-      "title": "Starbucks Korea records second consecutive quarterly loss",
-      "summary": "Image: pinglabel/stock.adobe.com. The third quarter of 2026 has led to a second consecutive quarter of loss for Starbucks Korea, with parent company...",
-      "url": "https://www.gcrmag.com/starbucks-korea-records-second-consecutive-quarterly-loss/",
-      "image": "https://www.gcrmag.com/wp-content/uploads/2026/11/AdobeStock_1897838191_Editorial_Use_Only.jpeg",
-      "source": "Global Coffee Report",
-      "region": "Commercial & Futures",
-      "category": "Industry",
-      "timeAgo": "23h ago"
-    },
-    {
-      "title": "Roasting Partner Launches an Operating System for Roasters",
-      "summary": "A new software platform called Roasting Partner opened to outside coffee roasting businesses in October, offering tools designed to organize...",
-      "url": "https://dailycoffeenews.com/2026/11/18/roasting-partner-launches-an-operating-system-for-roasters/",
-      "image": "https://dailycoffeenews.com/wp-content/uploads/2026/11/Roasting-Partner-4-620x426.jpeg",
-      "source": "Daily Coffee News",
-      "region": "Global Trade",
-      "category": "Market Wire",
-      "timeAgo": "14h ago"
+      "timeAgo": "1d ago"
     }
   ]
 }
