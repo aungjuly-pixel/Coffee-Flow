@@ -1,35 +1,35 @@
 {
-  "timestamp": "2026-11-21T02:35:48.023600+00:00",
-  "arabica_spot_cents_lb": 268.7,
-  "arabica_change_pct": -4.73,
+  "timestamp": "2026-11-24T05:23:24.471132+00:00",
+  "arabica_spot_cents_lb": 274.35,
+  "arabica_change_pct": -0.18,
   "arabica_up": false,
-  "sma20": 281.95,
-  "sma50": 289.24,
-  "robusta_price_mt": 3087,
-  "robusta_change_pct": -4.73,
+  "sma20": 280.92,
+  "sma50": 288.7,
+  "robusta_price_mt": 3152,
+  "robusta_change_pct": -0.18,
   "robusta_up": false,
-  "ice_stocks": "225k",
+  "ice_stocks": "269k",
   "ice_stocks_up": true,
   "ice_stocks_detail": {
-    "short_label": "225k",
+    "short_label": "269k",
     "is_up": true,
     "status_badge": "ACCUMULATION",
-    "report_date": "2026-11-20",
-    "total_bags": 225219,
+    "report_date": "2026-11-23",
+    "total_bags": 268614,
     "top_ports": [
       {
         "code": "ANT",
         "label": "Antwerp Port (EU Warehouse)",
-        "bags": 177416,
-        "delta": "+3.4%",
-        "share_pct": 79
+        "bags": 220811,
+        "delta": "+24.5%",
+        "share_pct": 82
       },
       {
         "code": "HOU",
         "label": "Houston Terminal (US Gulf)",
         "bags": 31905,
         "delta": "Unchanged",
-        "share_pct": 14
+        "share_pct": 12
       },
       {
         "code": "HA/BR",
@@ -76,58 +76,52 @@
     ]
   },
   "usd_brl": 5.93,
-  "usd_brl_change_pct": 0.88,
-  "usd_brl_up": true,
+  "usd_brl_change_pct": -0.31,
+  "usd_brl_up": false,
   "market_status": "ACTIVE",
   "benchmark": "ICE KC=F / RC",
   "chart_history": [
     {
-      "time": "2025-11-20",
-      "close": 406.5,
-      "sma20": 402.86,
-      "sma50": 393.31
-    },
-    {
       "time": "2025-11-21",
       "close": 400.0,
       "sma20": 402.71,
-      "sma50": 393.46
+      "sma50": 395.07
     },
     {
       "time": "2025-11-24",
       "close": 407.45,
       "sma20": 403.58,
-      "sma50": 393.76
+      "sma50": 395.35
     },
     {
       "time": "2025-11-25",
       "close": 414.2,
       "sma20": 404.9,
-      "sma50": 394.19
+      "sma50": 395.77
     },
     {
       "time": "2025-11-26",
       "close": 411.5,
       "sma20": 405.94,
-      "sma50": 394.56
+      "sma50": 396.11
     },
     {
       "time": "2025-11-28",
       "close": 413.0,
       "sma20": 406.99,
-      "sma50": 394.93
+      "sma50": 396.47
     },
     {
       "time": "2025-12-01",
       "close": 411.5,
       "sma20": 407.96,
-      "sma50": 395.26
+      "sma50": 396.78
     },
     {
       "time": "2025-12-02",
       "close": 405.55,
       "sma20": 407.91,
-      "sma50": 396.03
+      "sma50": 396.96
     },
     {
       "time": "2025-12-03",
@@ -1589,9 +1583,15 @@
     },
     {
       "time": "2026-11-20",
-      "close": 268.7,
-      "sma20": 281.95,
-      "sma50": 289.24
+      "close": 274.85,
+      "sma20": 282.25,
+      "sma50": 289.36
+    },
+    {
+      "time": "2026-11-23",
+      "close": 274.35,
+      "sma20": 280.92,
+      "sma50": 288.7
     }
   ],
   "cot_history": [
