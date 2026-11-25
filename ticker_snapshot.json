@@ -1,27 +1,27 @@
 {
-  "timestamp": "2026-11-24T05:23:24.471132+00:00",
-  "arabica_spot_cents_lb": 274.35,
-  "arabica_change_pct": -0.18,
+  "timestamp": "2026-11-25T04:22:58.108275+00:00",
+  "arabica_spot_cents_lb": 260.4,
+  "arabica_change_pct": -5.08,
   "arabica_up": false,
-  "sma20": 280.92,
-  "sma50": 288.7,
-  "robusta_price_mt": 3152,
-  "robusta_change_pct": -0.18,
+  "sma20": 279.26,
+  "sma50": 287.91,
+  "robusta_price_mt": 2992,
+  "robusta_change_pct": -5.08,
   "robusta_up": false,
-  "ice_stocks": "269k",
+  "ice_stocks": "273k",
   "ice_stocks_up": true,
   "ice_stocks_detail": {
-    "short_label": "269k",
+    "short_label": "273k",
     "is_up": true,
     "status_badge": "ACCUMULATION",
-    "report_date": "2026-11-23",
-    "total_bags": 268614,
+    "report_date": "2026-11-24",
+    "total_bags": 272868,
     "top_ports": [
       {
         "code": "ANT",
         "label": "Antwerp Port (EU Warehouse)",
-        "bags": 220811,
-        "delta": "+24.5%",
+        "bags": 225065,
+        "delta": "+1.9%",
         "share_pct": 82
       },
       {
@@ -75,18 +75,12 @@
       }
     ]
   },
-  "usd_brl": 5.93,
-  "usd_brl_change_pct": -0.31,
+  "usd_brl": 5.9,
+  "usd_brl_change_pct": -0.43,
   "usd_brl_up": false,
   "market_status": "ACTIVE",
   "benchmark": "ICE KC=F / RC",
   "chart_history": [
-    {
-      "time": "2025-11-21",
-      "close": 400.0,
-      "sma20": 402.71,
-      "sma50": 395.07
-    },
     {
       "time": "2025-11-24",
       "close": 407.45,
@@ -1592,6 +1586,12 @@
       "close": 274.35,
       "sma20": 280.92,
       "sma50": 288.7
+    },
+    {
+      "time": "2026-11-24",
+      "close": 260.4,
+      "sma20": 279.26,
+      "sma50": 287.91
     }
   ],
   "cot_history": [
