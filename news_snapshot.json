@@ -1,16 +1,36 @@
 {
-  "timestamp": "2026-11-25T04:23:00.215489+00:00",
+  "timestamp": "2026-11-26T03:40:17.028180+00:00",
   "count": 5,
   "articles": [
     {
-      "title": "Very Hot Coffee and Tea Linked to Higher Esophageal Cancer Risk",
-      "summary": "People who prefer their coffee or tea very hot may face more than three times the risk of a particular type of esophageal cancer compared to people who...",
-      "url": "https://dailycoffeenews.com/2026/11/24/very-hot-coffee-and-tea-linked-to-higher-esophageal-cancer-risk/",
-      "image": "https://dailycoffeenews.com/wp-content/uploads/2026/10/very-hot-coffee-620x434.jpg",
+      "title": "Indonesia Coffee Production Down 8.2% Due to Weather",
+      "summary": "Indonesia’s green coffee production is forecast to decline 8.2% to 11.35 million 60-kilogram bags in market year 2026/27, due primarily to weather...",
+      "url": "https://dailycoffeenews.com/2026/11/25/indonesia-coffee-production-down-8-2-due-to-weather/",
+      "image": "https://dailycoffeenews.com/wp-content/uploads/2026/11/Indonesia-coffee-market-620x400.png",
       "source": "Daily Coffee News",
       "region": "Global Trade",
       "category": "Market Wire",
-      "timeAgo": "14h ago"
+      "timeAgo": "11h ago"
+    },
+    {
+      "title": "Starbucks Japan sale inches forward",
+      "summary": "Starbucks is working with banks including Citigroup Inc. and Morgan Stanley in preparation of the sale of its Japanese operation, Bloomberg has...",
+      "url": "https://www.gcrmag.com/starbucks-japan-sale-inches-forward/",
+      "image": "https://www.gcrmag.com/wp-content/uploads/2026/11/AdobeStock_1975596162_Editorial_Use_Only.jpeg",
+      "source": "Global Coffee Report",
+      "region": "Commercial & Futures",
+      "category": "Industry",
+      "timeAgo": "5h ago"
+    },
+    {
+      "title": "Seattle’s Barometer Coffee Sets Sail with Pressure-Free Local Delivery",
+      "summary": "By bike, van and even dinghy to boats along Seattle’s waterways, new Ballard roasting company Barometer Coffee is gauging customers’ thirst for...",
+      "url": "https://dailycoffeenews.com/2026/11/25/seattles-barometer-coffee-sets-sail-with-pressure-free-local-delivery/",
+      "image": "https://dailycoffeenews.com/wp-content/uploads/2026/11/Barometer-Delivery-Boat-1-620x422.jpg",
+      "source": "Daily Coffee News",
+      "region": "Global Trade",
+      "category": "Market Wire",
+      "timeAgo": "13h ago"
     },
     {
       "title": "How Franke helps Balance Familie maintain consistent coffee quality",
@@ -20,37 +40,17 @@
       "source": "Global Coffee Report",
       "region": "Commercial & Futures",
       "category": "Industry",
-      "timeAgo": "1h ago"
+      "timeAgo": "1d ago"
     },
     {
-      "title": "Design Details: Ripples of Time at Yeonheun Roasters in Seoul",
-      "summary": "Welcome to Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior...",
-      "url": "https://dailycoffeenews.com/2026/11/24/design-details-ripples-of-time-at-yeonheun-roasters-in-seoul/",
-      "image": "https://dailycoffeenews.com/wp-content/uploads/2026/10/Yeonheun-Roasters-1-620x414.jpg",
+      "title": "Chicago Specialty Coffee Shop Closes Amid Alleged ICE Connection",
+      "summary": "Chicago specialty coffee roaster and cafe Tasa Coffee Roasters appears to have permanently closed following an employee walkout and boycott calls over...",
+      "url": "https://dailycoffeenews.com/2026/11/25/chicago-specialty-coffee-shop-closes-amid-alleged-ice-connection/",
+      "image": "https://dailycoffeenews.com/wp-content/uploads/2026/11/Coffee-shop-620x371.jpg",
       "source": "Daily Coffee News",
       "region": "Global Trade",
       "category": "Market Wire",
-      "timeAgo": "14h ago"
-    },
-    {
-      "title": "Honduras wins top honour at illycaffè’s Ernesto Illy International Coffee Award",
-      "summary": "Image: illycafè. Honduran coffee producer Denis Rolando Cortez Monge has claimed the top prize at the 11th Ernesto Illy International Coffee Award,...",
-      "url": "https://www.gcrmag.com/honduras-wins-top-honour-at-illycaffes-ernesto-illy-international-coffee-award/",
-      "image": "https://www.gcrmag.com/wp-content/uploads/2026/11/EIICA2026_winner.jpg",
-      "source": "Global Coffee Report",
-      "region": "Commercial & Futures",
-      "category": "Industry",
-      "timeAgo": "5h ago"
-    },
-    {
-      "title": "USDA Cuts Colombia Coffee Export Forecast by 760,000 Bags",
-      "summary": "Colombia’s coffee production is forecast to increase by 5.9% to 13.4 million 60-kilogram bags in market year 2026/27, but the country’s export forecast...",
-      "url": "https://dailycoffeenews.com/2026/11/24/usda-cuts-colombia-coffee-export-forecast-by-760000-bags/",
-      "image": "https://dailycoffeenews.com/wp-content/uploads/2026/11/Colombia-coffee-market-report-202627-620x400.png",
-      "source": "Daily Coffee News",
-      "region": "Global Trade",
-      "category": "Market Wire",
-      "timeAgo": "15h ago"
+      "timeAgo": "13h ago"
     }
   ]
 }
