@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-26T03:40:17.028180+00:00",
+  "timestamp": "2026-11-27T03:41:33.872468+00:00",
   "count": 5,
   "articles": [
     {
@@ -10,13 +10,13 @@
       "source": "Daily Coffee News",
       "region": "Global Trade",
       "category": "Market Wire",
-      "timeAgo": "11h ago"
+      "timeAgo": "1d ago"
     },
     {
-      "title": "Starbucks Japan sale inches forward",
-      "summary": "Starbucks is working with banks including Citigroup Inc. and Morgan Stanley in preparation of the sale of its Japanese operation, Bloomberg has...",
-      "url": "https://www.gcrmag.com/starbucks-japan-sale-inches-forward/",
-      "image": "https://www.gcrmag.com/wp-content/uploads/2026/11/AdobeStock_1975596162_Editorial_Use_Only.jpeg",
+      "title": "Julius Meinl completes largest acquisition in company history",
+      "summary": "The acquisitions will be incorporated into Julius Meinl Italia. Image: madrolly/stock.adobe.com. Julius Meinl has completed the largest acquisition in...",
+      "url": "https://www.gcrmag.com/julius-meinl-completes-largest-acquisition-in-company-history/",
+      "image": "https://www.gcrmag.com/wp-content/uploads/2026/11/AdobeStock_543847617_Editorial_Use_Only.jpeg",
       "source": "Global Coffee Report",
       "region": "Commercial & Futures",
       "category": "Industry",
@@ -30,17 +30,17 @@
       "source": "Daily Coffee News",
       "region": "Global Trade",
       "category": "Market Wire",
-      "timeAgo": "13h ago"
+      "timeAgo": "1d ago"
     },
     {
-      "title": "How Franke helps Balance Familie maintain consistent coffee quality",
-      "summary": "Franke Coffee Systems and Balance Familie have partnered since 2019. Image: Franke and Balance Familie. Family-owned Swiss hospitality group Balance...",
-      "url": "https://www.gcrmag.com/how-franke-helps-balance-familie-maintain-consistent-coffee-quality/",
-      "image": "https://www.gcrmag.com/wp-content/uploads/2026/11/Franke-1.jpg",
+      "title": "Tchibo announces appointee to newly created executive role",
+      "summary": "Tchibo's new Chief Operating Officer will commence the role in April 2027. Image: Christian Bunge/stock.adobe.com Tchibo has revealed its new Chief...",
+      "url": "https://www.gcrmag.com/tchibo-announces-appointee-to-newly-created-executive-role/",
+      "image": "https://www.gcrmag.com/wp-content/uploads/2026/11/AdobeStock_764951947_Editorial_Use_Only.jpeg",
       "source": "Global Coffee Report",
       "region": "Commercial & Futures",
       "category": "Industry",
-      "timeAgo": "1d ago"
+      "timeAgo": "7h ago"
     },
     {
       "title": "Chicago Specialty Coffee Shop Closes Amid Alleged ICE Connection",
@@ -50,7 +50,7 @@
       "source": "Daily Coffee News",
       "region": "Global Trade",
       "category": "Market Wire",
-      "timeAgo": "13h ago"
+      "timeAgo": "1d ago"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
-  "timestamp": "2026-11-26T03:40:14.901465+00:00",
-  "arabica_spot_cents_lb": 268.55,
-  "arabica_change_pct": 0.0,
+  "timestamp": "2026-11-27T03:41:31.603400+00:00",
+  "arabica_spot_cents_lb": 275.65,
+  "arabica_change_pct": 2.64,
   "arabica_up": true,
-  "sma20": 278.75,
-  "sma50": 287.53,
-  "robusta_price_mt": 3086,
-  "robusta_change_pct": 0.0,
+  "sma20": 279.11,
+  "sma50": 287.67,
+  "robusta_price_mt": 3167,
+  "robusta_change_pct": 2.64,
   "robusta_up": true,
   "ice_stocks": "283k",
   "ice_stocks_up": true,
@@ -75,8 +75,8 @@
       }
     ]
   },
-  "usd_brl": 5.9,
-  "usd_brl_change_pct": -0.41,
+  "usd_brl": 5.65,
+  "usd_brl_change_pct": -2.93,
   "usd_brl_up": false,
   "market_status": "ACTIVE",
   "benchmark": "ICE KC=F / RC",
@@ -85,43 +85,43 @@
       "time": "2025-11-25",
       "close": 414.2,
       "sma20": 404.9,
-      "sma50": 396.41
+      "sma50": 396.99
     },
     {
       "time": "2025-11-26",
       "close": 411.5,
       "sma20": 405.94,
-      "sma50": 396.74
+      "sma50": 397.32
     },
     {
       "time": "2025-11-28",
       "close": 413.0,
       "sma20": 406.99,
-      "sma50": 397.1
+      "sma50": 397.67
     },
     {
       "time": "2025-12-01",
       "close": 411.5,
       "sma20": 407.96,
-      "sma50": 397.4
+      "sma50": 397.97
     },
     {
       "time": "2025-12-02",
       "close": 405.55,
       "sma20": 407.91,
-      "sma50": 397.57
+      "sma50": 398.13
     },
     {
       "time": "2025-12-03",
       "close": 403.75,
       "sma20": 407.83,
-      "sma50": 397.7
+      "sma50": 398.25
     },
     {
       "time": "2025-12-04",
       "close": 411.95,
       "sma20": 407.75,
-      "sma50": 397.98
+      "sma50": 398.53
     },
     {
       "time": "2025-12-05",
@@ -1589,9 +1589,9 @@
     },
     {
       "time": "2026-11-25",
-      "close": 268.55,
-      "sma20": 278.75,
-      "sma50": 287.53
+      "close": 275.65,
+      "sma20": 279.11,
+      "sma50": 287.67
     }
   ],
   "cot_history": [
